@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color: #dcdfe0;
+}
+
+.foto-perfil{
+  height: 45%;
+  width: 45%;
+  border-radius: 50%;
+}
+
+.list-group-item {
+  background-color: #dcdfe0;
+}
+
+.letra {
+  color: black;
+}
+
+.fonte {
+  color: #fcfaf0;
+}
+
+.navbar-custom {
+  background-color: #dcdfe0;
+}
+
+.jumbotron {
+  /* background-color: #2b6670; */
+  background-color: #637e90;
+  color: white;
+}
